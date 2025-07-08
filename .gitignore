@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Odoo-specific
+*.zip
+*.egg-info/
+*.pot
+*.mo
+*.log
+*.db
+*.bak
+*.swp
+*.sass-cache
+.DS_Store
+
+# Odoo cache and sessions
+.odoo/
+.session/
+
+# Build and dist
+dist/
+build/
+*.egg
+*.manifest
+*.iml
+
+# pipenv or poetry
+Pipfile.lock
+poetry.lock
+
+# virtualenv
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Test coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# macOS Finder
+*.DS_Store
+
+# Backup files
+*~
+
+# Node / JS-related (if any JS dev used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
