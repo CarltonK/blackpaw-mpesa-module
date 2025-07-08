@@ -1,4 +1,4 @@
-🇰🇪 Odoo M-Pesa Payment Integration (Daraja API)
+# 🇰🇪 Odoo M-Pesa Payment Integration (Daraja API)
 
 This custom Odoo 17+ module provides native M-Pesa STK Push integration using Safaricom's Daraja API.
 
