@@ -6,9 +6,17 @@ This custom Odoo 17+ module provides native M-Pesa STK Push integration using Sa
 
 #  🚀 Features
 ✅ Initiate STK Push payments from within Odoo
+
+
 ✅ Store and manage M-Pesa API credentials securely
+
+
 ✅ Toggle between sandbox and production environments
+
+
 ✅ Simple admin UI for configuration
+
+
 🔐 Built-in model-level access control
 🔜 (Coming Soon): C2B confirmation, validation endpoints, and auto-reconciliation
 
