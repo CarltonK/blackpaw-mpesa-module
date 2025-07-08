@@ -4,7 +4,7 @@ This custom Odoo 17+ module provides native M-Pesa STK Push integration using Sa
 
 📆 Built with Pythonic Odoo best practices for clean extensibility and future-proofing.
 
-🚀 Features
+#  🚀 Features
 ✅ Initiate STK Push payments from within Odoo
 ✅ Store and manage M-Pesa API credentials securely
 ✅ Toggle between sandbox and production environments
@@ -12,7 +12,7 @@ This custom Odoo 17+ module provides native M-Pesa STK Push integration using Sa
 🔐 Built-in model-level access control
 🔜 (Coming Soon): C2B confirmation, validation endpoints, and auto-reconciliation
 
-💠 Installation
+# 💠 Installation
 Clone the module into your Odoo custom addons directory:
 
 git clone https://github.com/your-username/odoo-mpesa.git
@@ -24,7 +24,7 @@ Restart the Odoo server:
 
 Activate developer mode and install the module via the Apps menu.
 
-⚙️ Configuration
+# ⚙️ Configuration
 
 Navigate to Settings > M-Pesa Configuration
 
@@ -39,17 +39,17 @@ Choose environment:
 Sandbox for testing
 Production for live
 
-🔐 Security
+# 🔐 Security
 Credentials are stored in a secured mpesa.config model.
 Access is limited to administrators by default.
 
 No sensitive data is logged unless explicitly enabled.
 
-📓 Resources
+# 📓 Resources
 Safaricom Daraja Docs: https://developer.safaricom.co.ke/
 Odoo 17 Developer Docs: https://www.odoo.com/documentation/17.0
 
-🧪 Development
+# 🧪 Development
 Activate your virtual environment and install dependencies:
 
 ```bash
