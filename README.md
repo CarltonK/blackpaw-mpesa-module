@@ -23,7 +23,7 @@ This custom Odoo 17+ module provides native M-Pesa STK Push integration using Sa
 # 💠 Installation
 Clone the module into your Odoo custom addons directory:
 
-git clone https://github.com/your-username/odoo-mpesa.git
+git clone https://github.com/CarltonK/blackpaw-mpesa-module.git
 
 Restart the Odoo server:
 ```bash
