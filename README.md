@@ -62,11 +62,11 @@ Enable live logging for API debugging:
 ./odoo-bin -d your_db_name --dev=all
 ```
 
-🤝 Contributing
+# 🤝 Contributing
 Pull requests are welcome. Please follow Odoo's module structure and include clear commit messages.
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License.
 
-✨ Author
+# ✨ Author
 Made with ❤️ in Kenya by Blackpaw Innovations
